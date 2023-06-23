@@ -1,0 +1,3 @@
+C:/Users/Maheat Capacity/PennyBacktester/build/CMakeFiles/backtester.dir
+C:/Users/Maheat Capacity/PennyBacktester/build/CMakeFiles/edit_cache.dir
+C:/Users/Maheat Capacity/PennyBacktester/build/CMakeFiles/rebuild_cache.dir

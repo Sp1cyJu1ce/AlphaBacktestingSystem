@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\backtester.dir/objects.a
+C:\msys64\mingw64\bin\ar.exe qc CMakeFiles\backtester.dir/objects.a @CMakeFiles\backtester.dir\objects1.rsp
+C:\msys64\mingw64\bin\g++.exe  -Wall -g -Wl,--dependency-file,CMakeFiles\backtester.dir\link.d -Wl,--whole-archive CMakeFiles\backtester.dir/objects.a -Wl,--no-whole-archive -o backtester.exe -Wl,--out-implib,libbacktester.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\backtester.dir\linkLibs.rsp

@@ -1,0 +1,38 @@
+[
+{
+  "directory": "C:/Users/Maheat Capacity/PennyBacktester/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/backtester.dir/includes_CXX.rsp  -Wall -g -std=gnu++11 -o CMakeFiles\\backtester.dir\\src\\dataProcessing.cpp.obj -c \"C:\\Users\\Maheat Capacity\\PennyBacktester\\src\\dataProcessing.cpp\"",
+  "file": "C:/Users/Maheat Capacity/PennyBacktester/src/dataProcessing.cpp",
+  "output": "CMakeFiles/backtester.dir/src/dataProcessing.cpp.obj"
+},
+{
+  "directory": "C:/Users/Maheat Capacity/PennyBacktester/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/backtester.dir/includes_CXX.rsp  -Wall -g -std=gnu++11 -o CMakeFiles\\backtester.dir\\src\\MomentumStrategy.cpp.obj -c \"C:\\Users\\Maheat Capacity\\PennyBacktester\\src\\MomentumStrategy.cpp\"",
+  "file": "C:/Users/Maheat Capacity/PennyBacktester/src/MomentumStrategy.cpp",
+  "output": "CMakeFiles/backtester.dir/src/MomentumStrategy.cpp.obj"
+},
+{
+  "directory": "C:/Users/Maheat Capacity/PennyBacktester/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/backtester.dir/includes_CXX.rsp  -Wall -g -std=gnu++11 -o CMakeFiles\\backtester.dir\\src\\Portfolio.cpp.obj -c \"C:\\Users\\Maheat Capacity\\PennyBacktester\\src\\Portfolio.cpp\"",
+  "file": "C:/Users/Maheat Capacity/PennyBacktester/src/Portfolio.cpp",
+  "output": "CMakeFiles/backtester.dir/src/Portfolio.cpp.obj"
+},
+{
+  "directory": "C:/Users/Maheat Capacity/PennyBacktester/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/backtester.dir/includes_CXX.rsp  -Wall -g -std=gnu++11 -o CMakeFiles\\backtester.dir\\src\\Metrics.cpp.obj -c \"C:\\Users\\Maheat Capacity\\PennyBacktester\\src\\Metrics.cpp\"",
+  "file": "C:/Users/Maheat Capacity/PennyBacktester/src/Metrics.cpp",
+  "output": "CMakeFiles/backtester.dir/src/Metrics.cpp.obj"
+},
+{
+  "directory": "C:/Users/Maheat Capacity/PennyBacktester/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/backtester.dir/includes_CXX.rsp  -Wall -g -std=gnu++11 -o CMakeFiles\\backtester.dir\\src\\Backtester.cpp.obj -c \"C:\\Users\\Maheat Capacity\\PennyBacktester\\src\\Backtester.cpp\"",
+  "file": "C:/Users/Maheat Capacity/PennyBacktester/src/Backtester.cpp",
+  "output": "CMakeFiles/backtester.dir/src/Backtester.cpp.obj"
+},
+{
+  "directory": "C:/Users/Maheat Capacity/PennyBacktester/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/backtester.dir/includes_CXX.rsp  -Wall -g -std=gnu++11 -o CMakeFiles\\backtester.dir\\src\\main.cpp.obj -c \"C:\\Users\\Maheat Capacity\\PennyBacktester\\src\\main.cpp\"",
+  "file": "C:/Users/Maheat Capacity/PennyBacktester/src/main.cpp",
+  "output": "CMakeFiles/backtester.dir/src/main.cpp.obj"
+}
+]

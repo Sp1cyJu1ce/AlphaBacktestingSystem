@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "vector": "cpp",
+        "iosfwd": "cpp"
+    },
+    "C_Cpp.default.configurationProvider": "ms-vscode.makefile-tools"
+}
