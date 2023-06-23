@@ -8,8 +8,6 @@ AlphaBacktestingSystem is a versatile and high-performance stock backtesting eng
 - **Customizable Strategies**: Easily define and plug in custom trading strategies.
 - **Portfolio Management**: Simulate portfolio allocations, manage cash, and keep track of asset positions.
 - **Performance Metrics**: Calculate and analyze key performance metrics such as returns, drawdowns, and ratios.
-- **Clean Codebase**: The code is written in a modular and clean manner, making it easy to understand and extend.
-- **Cross-Platform**: Compatible with Windows, macOS, and Linux systems.
 
 ## Getting Started 🚀
 
