@@ -2,8 +2,6 @@
 
 AlphaBacktestingSystem is a versatile and high-performance stock backtesting engine built in C++. It allows quantitative analysts and traders to develop, simulate, and analyze trading strategies using historical stock data.
 
-![Screenshot of the application](/path/to/screenshot.png) *<-- Replace with screenshot if available.*
-
 ## Features 🌟
 
 - **Efficient Backtesting**: Perform fast backtesting of trading strategies with historical stock data.
